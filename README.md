@@ -9,5 +9,5 @@
 - 电源：TT 450W SFX
 - 机箱：蜂鸟 i100 Pro
 
-#### OC版本 0.8.1
-#### OS版本 12.4 Monterey
+#### OC版本 0.8.5
+#### OS版本 13.0 Ventura
